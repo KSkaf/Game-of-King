@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+}
+
+body {
+    background-image: url("../images/back2.jpg");
+    background-size: 130%;
+    background-color: black;
+    display: flex;
+    background-repeat: no-repeat;
+}
+
+.guide {
+    color: goldenrod;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 45px;
+    margin-right: 40px;
+    font-size: 1.5rem;
+}
+
+button {
+    background: grey;
+    margin: 200px;
+    margin-left: 45px;
+    margin-right: 40px;
+    height: 300px;
+    width: 150px;
+    justify-content: space-evenly;
+    font-size: 4rem;
+    border-color: goldenrod;
+    border-radius: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(66, 16, 16);
+}
+
+h1 {
+    color: goldenrod;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 45px;
+    margin-right: 40px;
+    font-size: 1.5rem;
+}
+
+#pick {
+    background: grey;
+    margin: 150px;
+    margin-left: 150px;
+    margin-right: 40px;
+    height: 400px;
+    width: 200px;
+    justify-content: space-evenly;
+    font-size: 4rem;
+    border-color: goldenrod;
+    border-radius: 5px;
+
+}
